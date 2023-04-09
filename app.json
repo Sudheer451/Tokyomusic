@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5463205082",
+        "value": "5723971869",
         "required": true
       },
       "STRING_SESSION": {
@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/Best_FriendsFor_Ever",
+        "value": "https://t.me/International_Chatting_Hub",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/Star_X_Network",
+        "value": "https://t.me/international_content",
         "required": false
       },
       "PING_IMG_URL": {
