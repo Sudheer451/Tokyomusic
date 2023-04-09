@@ -65,12 +65,12 @@
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "",
+        "value": "https://telegra.ph//file/aeccec8deac293ef31084.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://telegra.ph//file/92437a0da9f2844fa8d58.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -85,7 +85,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001593673101",
         "required": true
       },
       "UPSTREAM_REPO": {
