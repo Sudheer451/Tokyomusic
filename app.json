@@ -40,7 +40,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "⁪⁬",
+        "value": "𝙏𝙤𝙠𝙮𝙤 ✘ 𝙈𝙪𝙨𝙞𝙘⁪⁬",
         "required": true
       },
       "OWNER_ID": {
